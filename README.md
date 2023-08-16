@@ -12,7 +12,7 @@ For more info, see previous <a href = "https://github.com/lawalter/r-shiny-elect
 ## Version Info 
 
 -   ![](https://img.shields.io/badge/R-gray?style=for-the-badge&logo=R) 4.3.1
--   ![](https://img.shields.io/badge/Shiny-gray?style=for-the-badge&logo=RStudio) 2022.12.0 Build 353
+-   ![](https://img.shields.io/badge/Shiny-gray?style=for-the-badge&logo=RStudio) 2023.06.1 build 524
 -   ![](https://img.shields.io/badge/node.js-gray?style=for-the-badge&logo=nodedotjs) v20.5.1
 -   ![](https://img.shields.io/badge/npm-gray?style=for-the-badge&logo=npm) v9.8.0
 -   ![](https://img.shields.io/badge/macOS-gray?style=for-the-badge&logo=apple) 13.5
