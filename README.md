@@ -59,7 +59,7 @@ All of the following steps can be run exclusively in the RStudio **Terminal** (r
 -   `add-cran-binary-pkgs.R`: for install R packages into your project locally
 -   `start-shiny.R`: let electron call your shiny app
 
--   Folder **shiny** from this templae, containing:
+-   Folder **shiny** from this template, containing:
     -   `shiny/app.R`: **THIS IS YOUR SHINY APP'S CODE**
 
 -   Folder **src** from this template, containing:     
